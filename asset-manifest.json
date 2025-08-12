@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/slobagel/static/css/main.7b55e9cc.css",
-    "main.js": "/slobagel/static/js/main.006820c6.js",
+    "main.js": "/slobagel/static/js/main.8ffefea6.js",
     "static/js/453.dd542f23.chunk.js": "/slobagel/static/js/453.dd542f23.chunk.js",
     "index.html": "/slobagel/index.html",
     "main.7b55e9cc.css.map": "/slobagel/static/css/main.7b55e9cc.css.map",
-    "main.006820c6.js.map": "/slobagel/static/js/main.006820c6.js.map",
+    "main.8ffefea6.js.map": "/slobagel/static/js/main.8ffefea6.js.map",
     "453.dd542f23.chunk.js.map": "/slobagel/static/js/453.dd542f23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b55e9cc.css",
-    "static/js/main.006820c6.js"
+    "static/js/main.8ffefea6.js"
   ]
 }
