@@ -13,21 +13,21 @@ const reviews = [
     title: "첫 주문입니다!",
     content: "빵순이라 ㅎ 요즘 베이글이 핫한거 같아서 이왕이면 맛집으로 소문난 곳에서 먹고싶어 주문했습니다.",
     date: "2024-04-17",
-    img: "/images/babel_02.jpg"
+    image: process.env.PUBLIC_URL + '/images/babel_02.jpg'
   },
   {
     id: 2,
     title: "맛있어요!",
     content: "시품은 좀 딱딱하고 퍽퍽한데 쫄깃 부드러워 맛있어요! 크림치즈 없이도 맛있고 크림치즈랑 같이 먹으 ...",
     date: "2024-04-16",
-    img: "/images/babel_06.jpg"
+    image: process.env.PUBLIC_URL + '/images/babel_06.jpg'
   },
   {
     id: 3,
     title: "넘 맛있어요",
     content: "쫄깃하고 고소하고 맛있네요! 여러가지 맛을 볼 수 있어 좋아요! 주문시 넣어두신 안내사항대로 하니 ...",
     date: "2024-04-15",
-    img: "/images/creamchees_01.jpg"
+    image: process.env.PUBLIC_URL + '/images/creamchees_01.jpg'
   }
 ];
 
